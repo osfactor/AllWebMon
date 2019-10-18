@@ -1,0 +1,1 @@
+This is an application witch has to shows all network cameras in one place.
